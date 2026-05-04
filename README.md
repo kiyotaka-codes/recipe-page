@@ -44,5 +44,5 @@ During this project, I learned how to handle complex layouts with CSS Flexbox an
 }
 ```
 ## Author
-GitHub - @kiyotaka-codes
-Frontend Mentor - @kiyotaka-codes
+- GitHub - [@kiyotaka-codes](https://github.com/kiyotaka-codes)
+- Frontend Mentor - [@kiyotaka-codes](https://www.frontendmentor.io/profile/kiyotaka-codes)
